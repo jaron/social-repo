@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.app2square.core.api</groupId>
+  <artifactId>mobile-parse-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140302231856</lastUpdated>
+  </versioning>
+</metadata>
