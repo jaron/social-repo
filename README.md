@@ -4,6 +4,7 @@ This is a local repository for libraries I use but that aren't included in the M
 
 * Parse v1.4.1 (https://parse.com/downloads/android/Parse/latest)
 * Facebook Android SDK v3.6.0 (https://developers.facebook.com/docs/android)
+* Mobile-Parse-API v0.0.1 (https://code.google.com/p/mobile-parse-api/)
 
 To add files to the repository, use the following command and then commit the changes:
 
