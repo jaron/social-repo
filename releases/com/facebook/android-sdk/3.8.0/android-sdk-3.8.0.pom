@@ -5,4 +5,5 @@
   <groupId>com.facebook</groupId>
   <artifactId>android-sdk</artifactId>
   <version>3.8.0</version>
+  <packaging>apklib</packaging>
 </project>
