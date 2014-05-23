@@ -5,4 +5,5 @@
   <groupId>com.google.android.gms</groupId>
   <artifactId>google-play-services</artifactId>
   <version>17.0.0</version>
+  <packaging>aar</packaging>
 </project>
