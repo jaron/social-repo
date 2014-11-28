@@ -3,7 +3,7 @@
 This is a local repository for libraries I use but that aren't included in the Maven Central repository, it currently consists of:
 
 * Parse v1.7.1 (https://parse.com/downloads/android/Parse/latest), including bolts v1.1.2
-* Facebook Android SDK v3.8.0 (https://developers.facebook.com/docs/android)
+* Facebook Android SDK v3.20.0 (https://developers.facebook.com/docs/android)
 * Mobile-Parse-API v0.0.1 (https://code.google.com/p/mobile-parse-api/)
 
 Also contains Google Play Services v15.0.0 (4.2.42), (http://developer.android.com/google/play-services/index.html), but I'm now using the local SDK version of these libraries.
